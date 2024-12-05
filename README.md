@@ -71,7 +71,7 @@ left:0;
 z-index:-1;
 width:100%;
 height:100vh;
-background:url(https://torokoid.github.io/20241204_chiangrai/20241204_040.JPG) center/cover no-repeat;
+background:url(https://torokoid.github.io/20241204_chiangrai/20241204_041.JPG) center/cover no-repeat;
 -webkit-background-size:cover;/*Android4*/
 }
 
@@ -131,9 +131,9 @@ p.note { display: none; }
 
 <a href="20241204_001.JPG" target="_blank"><img src="20241204_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241204_002.JPG" target="_blank"><img src="20241204_002.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241204_003.JPG" target="_blank"><img src="20241204_003.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">お店の裏、山の上にはワンちゃん雲がみんなで左向き！</span></h2>
+<h2><span class="yellow">お店の裏、山の上にはワンちゃん雲たちがみんなで左向き！</span></h2>
+<a href="20241204_003.JPG" target="_blank"><img src="20241204_003.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241204_004.JPG" target="_blank"><img src="20241204_004.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">コーヒー店では、スマホのキャリア契約(AIS)していると無料サービス</span></h2>
@@ -181,24 +181,50 @@ p.note { display: none; }
 
 <h2><span class="yellow">比較的スムースに手続きが終了してパスポートにメーチャンでの居住地が記載されました</span></h2>
 <a href="20241204_020.JPG" target="_blank"><img src="20241204_020.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">公的機関（役所か軍関連？）のお兄さんは長袖長ズボンでヘルメット着用してます<br>走りはダイナミックでした</span></h2>
 <a href="20241204_021.JPG" target="_blank"><img src="20241204_021.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">ほとんどのスクーターはこんな感じで乗ります</span></h2>
 <a href="20241204_022.JPG" target="_blank"><img src="20241204_022.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">白人のご夫婦はタクシーからスマホで撮影</span></h2>
 <a href="20241204_023.JPG" target="_blank"><img src="20241204_023.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">古いピックアップトラックは、タイヤをはみ出させるのが主流っぽいですね〜これ合法です</span></h2>
 <a href="20241204_024.JPG" target="_blank"><img src="20241204_024.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">夕方の帰宅時間なので、荷台は人でいっぱい</span></h2>
 <a href="20241204_025.JPG" target="_blank"><img src="20241204_025.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241204_026.JPG" target="_blank"><img src="20241204_026.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241204_027.JPG" target="_blank"><img src="20241204_027.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241204_028.JPG" target="_blank"><img src="20241204_028.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">7/11の敷地内にあるラーメン屋さんで夕食</span></h2>
+<a href="20241204_035.JPG" target="_blank"><img src="20241204_035.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">一杯50バーツ</span></h2>
 <a href="20241204_029.JPG" target="_blank"><img src="20241204_029.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">支払い方法はスマホ決済、日本のPayPayと同じくらいの普及率らしいです</span></h2>
 <a href="20241204_030.JPG" target="_blank"><img src="20241204_030.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241204_031.JPG" target="_blank"><img src="20241204_031.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241204_032.JPG" target="_blank"><img src="20241204_032.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241204_033.JPG" target="_blank"><img src="20241204_033.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">味付けは好みに合わせて、自己責任で・・・間違うと大変なことに！</span></h2>
 <a href="20241204_034.JPG" target="_blank"><img src="20241204_034.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241204_035.JPG" target="_blank"><img src="20241204_035.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">トイレは？と聞くと7/11の建物の後ろ側の空き地・・・男性専用です</span></h2>
 <a href="20241204_036.JPG" target="_blank"><img src="20241204_036.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">お空には細いお月さま</span></h2>
 <a href="20241204_037.JPG" target="_blank"><img src="20241204_037.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">夕暮れには、金星と三日月のコラボが見事でした（日本でもこうなってますね）</span></h2>
 <a href="20241204_038.JPG" target="_blank"><img src="20241204_038.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">熱帯のお花たちは綺麗ですね〜</span></h2>
 <a href="20241204_039.JPG" target="_blank"><img src="20241204_039.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241204_040.JPG" target="_blank"><img src="20241204_040.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241204_041.JPG" target="_blank"><img src="20241204_041.JPG" alt="サンプル画像" width="900" /></a>
