@@ -188,6 +188,10 @@ p.note { display: none; }
 <h2><span class="yellow">ほとんどのスクーターはこんな感じで乗ります</span></h2>
 <a href="20241204_022.JPG" target="_blank"><img src="20241204_022.JPG" alt="サンプル画像" width="900" /></a>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OYxw8ieg80w?si=JfqH6L-UfOxLAlQ9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A3bZbzw_Cc4?si=Fg03XB-eWwgK-a6x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+
 <h2><span class="yellow">白人のご夫婦はタクシーからスマホで撮影</span></h2>
 <a href="20241204_023.JPG" target="_blank"><img src="20241204_023.JPG" alt="サンプル画像" width="900" /></a>
 
