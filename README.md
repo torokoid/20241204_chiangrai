@@ -71,7 +71,7 @@ left:0;
 z-index:-1;
 width:100%;
 height:100vh;
-background:url(https://torokoid.github.io/20241202_chiangrai/20241130_104.JPG) center/cover no-repeat;
+background:url(https://torokoid.github.io/20241204_chiangrai/20241204_040.JPG) center/cover no-repeat;
 -webkit-background-size:cover;/*Android4*/
 }
 
@@ -127,27 +127,59 @@ p.note { display: none; }
 
 <!--ここから下が、本体部分-->
 
-<h2><span class="yellow">12月3日、披露宴の帰り道に、義兄の息子さんの食堂にお邪魔しました</span></h2>
+<h2><span class="yellow">12月3日、朝は義妹のお店で朝食</span></h2>
 
 <a href="20241204_001.JPG" target="_blank"><img src="20241204_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241204_002.JPG" target="_blank"><img src="20241204_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241204_003.JPG" target="_blank"><img src="20241204_003.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">お店の裏、山の上にはワンちゃん雲がみんなで左向き！</span></h2>
 <a href="20241204_004.JPG" target="_blank"><img src="20241204_004.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">コーヒー店では、スマホのキャリア契約(AIS)していると無料サービス</span></h2>
 <a href="20241204_005.JPG" target="_blank"><img src="20241204_005.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">この日も仏壇の向こうに夕陽が暮れていきました</span></h2>
 <a href="20241204_006.JPG" target="_blank"><img src="20241204_006.JPG" alt="サンプル画像" width="900" /></a>
+
+
+<br><br>
+
+<h2><span class="yellow">12月4日、朝から国道を南下してショッピングモール「CENTRAL」向かいます<br>沿道のお花が咲き誇ってました</span></h2>
 <a href="20241204_007.JPG" target="_blank"><img src="20241204_007.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">店内はクリスマスムード</span></h2>
 <a href="20241204_008.JPG" target="_blank"><img src="20241204_008.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">Hondaの２輪展示販売では「Monkey」がイチオシに！</span></h2>
 <a href="20241204_009.JPG" target="_blank"><img src="20241204_009.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">ぬいぐるみ系の盛り上がり方は凄そうです</span></h2>
 <a href="20241204_010.JPG" target="_blank"><img src="20241204_010.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241204_011.JPG" target="_blank"><img src="20241204_011.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">クリスマスムードの４輪ディーラー</span></h2>
 <a href="20241204_012.JPG" target="_blank"><img src="20241204_012.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">コンパニオンのお姉様たちは、空いた時間で自撮り合戦</span></h2>
 <a href="20241204_013.JPG" target="_blank"><img src="20241204_013.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">女性陣はサンタさんに皆注目</span></h2>
 <a href="20241204_014.JPG" target="_blank"><img src="20241204_014.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">若い男性陣は、最新スマホが気になる感じ</span></h2>
 <a href="20241204_015.JPG" target="_blank"><img src="20241204_015.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241204_016.JPG" target="_blank"><img src="20241204_016.JPG" alt="サンプル画像" width="900" /></a>
+<!--
+<a href="20241204_016.JPG" target="_blank"><img src="20241204_016.JPG" alt="サンプル画像" width="900" /></a>-->
+
+<h2><span class="yellow">滞在期間が２週間超えたので、現地での定住場所を登録してパスポートに記載する手付きをします</span></h2>
 <a href="20241204_017.JPG" target="_blank"><img src="20241204_017.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">モール内にある郵便局で必要書類をコピーします</span></h2>
 <a href="20241204_018.JPG" target="_blank"><img src="20241204_018.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241204_019.JPG" target="_blank"><img src="20241204_019.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">比較的スムースに手続きが終了してパスポートにメーチャンでの居住地が記載されました</span></h2>
 <a href="20241204_020.JPG" target="_blank"><img src="20241204_020.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241204_021.JPG" target="_blank"><img src="20241204_021.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241204_022.JPG" target="_blank"><img src="20241204_022.JPG" alt="サンプル画像" width="900" /></a>
