@@ -129,6 +129,47 @@ p.note { display: none; }
 
 <h2><span class="yellow">12月3日、披露宴の帰り道に、義兄の息子さんの食堂にお邪魔しました</span></h2>
 
+<a href="20241204_001.JPG" target="_blank"><img src="20241204_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241204_002.JPG" target="_blank"><img src="20241204_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241204_003.JPG" target="_blank"><img src="20241204_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241204_004.JPG" target="_blank"><img src="20241204_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241204_005.JPG" target="_blank"><img src="20241204_005.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241204_006.JPG" target="_blank"><img src="20241204_006.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241204_007.JPG" target="_blank"><img src="20241204_007.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241204_008.JPG" target="_blank"><img src="20241204_008.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241204_009.JPG" target="_blank"><img src="20241204_009.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241204_010.JPG" target="_blank"><img src="20241204_010.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241204_011.JPG" target="_blank"><img src="20241204_011.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241204_012.JPG" target="_blank"><img src="20241204_012.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241204_013.JPG" target="_blank"><img src="20241204_013.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241204_014.JPG" target="_blank"><img src="20241204_014.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241204_015.JPG" target="_blank"><img src="20241204_015.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241204_016.JPG" target="_blank"><img src="20241204_016.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241204_017.JPG" target="_blank"><img src="20241204_017.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241204_018.JPG" target="_blank"><img src="20241204_018.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241204_019.JPG" target="_blank"><img src="20241204_019.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241204_020.JPG" target="_blank"><img src="20241204_020.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241204_021.JPG" target="_blank"><img src="20241204_021.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241204_022.JPG" target="_blank"><img src="20241204_022.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241204_023.JPG" target="_blank"><img src="20241204_023.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241204_024.JPG" target="_blank"><img src="20241204_024.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241204_025.JPG" target="_blank"><img src="20241204_025.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241204_026.JPG" target="_blank"><img src="20241204_026.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241204_027.JPG" target="_blank"><img src="20241204_027.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241204_028.JPG" target="_blank"><img src="20241204_028.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241204_029.JPG" target="_blank"><img src="20241204_029.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241204_030.JPG" target="_blank"><img src="20241204_030.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241204_031.JPG" target="_blank"><img src="20241204_031.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241204_032.JPG" target="_blank"><img src="20241204_032.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241204_033.JPG" target="_blank"><img src="20241204_033.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241204_034.JPG" target="_blank"><img src="20241204_034.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241204_035.JPG" target="_blank"><img src="20241204_035.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241204_036.JPG" target="_blank"><img src="20241204_036.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241204_037.JPG" target="_blank"><img src="20241204_037.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241204_038.JPG" target="_blank"><img src="20241204_038.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241204_039.JPG" target="_blank"><img src="20241204_039.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241204_040.JPG" target="_blank"><img src="20241204_040.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241204_041.JPG" target="_blank"><img src="20241204_041.JPG" alt="サンプル画像" width="900" /></a>
 <br><br>
 
 <h2><span class="yellow">11月30日はメーチャンの街中を散策</span></h2>
