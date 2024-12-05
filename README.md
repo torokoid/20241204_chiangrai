@@ -234,14 +234,11 @@ p.note { display: none; }
 <a href="20241204_041.JPG" target="_blank"><img src="20241204_041.JPG" alt="サンプル画像" width="900" /></a>
 <br><br>
 
-<h2><span class="yellow">11月30日はメーチャンの街中を散策</span></h2>
 
 
 
 <br><br>
 
-<h2><span class="yellow">12月4日はチェンライのお店を２軒梯子して本格的なお買い物</span></h2>
-<h2><span class="yellow">1件目は会員制のスーパー、日本のコストコに相当する店舗</span></h2>
 
 
 
